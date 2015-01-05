@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000063_0000_0F9F19FAC81A7A68"/>
-            <pb facs="tcp:000063_0001_0F9F19FB8966C8B8"/>
+            <pb facs="unknown:000063_0000_0F9F19FAC81A7A68"/>
+            <pb facs="unknown:000063_0001_0F9F19FB8966C8B8"/>
             <p>A Brief CATECHISME Containing THE DOCTRINE OF GODLINES, <hi>OR OF LIVING UNTO GOD.</hi>
             </p>
             <p>
@@ -123,8 +123,8 @@
       </front>
       <body>
          <div type="catechism">
-            <pb facs="tcp:000063_0002_0F9F19FC4D742720"/>
-            <pb n="3" facs="tcp:000063_0003_0F9F19FD066A0F30"/>
+            <pb facs="unknown:000063_0002_0F9F19FC4D742720"/>
+            <pb n="3" facs="unknown:000063_0003_0F9F19FD066A0F30"/>
             <head>THE DOCTRINE of Godliness.</head>
             <p>Quest. W<hi>Hat is Divinity?</hi>
             </p>
@@ -155,7 +155,7 @@
             <p>
                <hi>A.</hi> God himself considered absolute<g ref="char:EOLhyphen"/>ly or essentially.</p>
             <p>
-               <pb n="4" facs="tcp:000063_0004_0F9F19FDCA8B10F0"/>
+               <pb n="4" facs="unknown:000063_0004_0F9F19FDCA8B10F0"/>
 Quest. <hi>What are you to understand by the manner of his Being?</hi>
             </p>
             <p>
@@ -192,7 +192,7 @@ Quest. <hi>What are you to understand by the manner of his Being?</hi>
             <p>Qu. <hi>What is Providence?</hi>
             </p>
             <p>
-               <pb n="5" facs="tcp:000063_0005_0F9F19FE86948E18"/>
+               <pb n="5" facs="unknown:000063_0005_0F9F19FE86948E18"/>
                <hi>A.</hi> That by which God governeth all his works,<note place="margin">Pro. 16.4. Ro.8.28,29</note> and all the actions thereof as maketh most for his glory, and the good of his elect.</p>
             <p>Qu. <hi>What do you consider concerning Gods speciall Government of man?</hi>
             </p>
@@ -221,7 +221,7 @@ Quest. <hi>What are you to understand by the manner of his Being?</hi>
             </p>
             <p>A. <note place="margin">Rom 7.17 Heb.12.1 Gen.6.5. Rom.8.7. Jer.2.13.</note> The hereditary and habitual con<g ref="char:EOLhyphen"/>trariety and enmity of the nature of man against the whole Law of God, consist<g ref="char:EOLhyphen"/>ing in an aversenesse from all good, and propensenesse unto all evill.</p>
             <p>
-               <pb n="6" facs="tcp:000063_0006_0F9F19FF46BD1518"/>
+               <pb n="6" facs="unknown:000063_0006_0F9F19FF46BD1518"/>
                <hi>Q. What is the propagation of sin?</hi>
             </p>
             <p>
@@ -254,7 +254,7 @@ Quest. <hi>What are you to understand by the manner of his Being?</hi>
                <note place="margin">Rom.6.14. &amp; 8.2 Gal.3.10 Acts 26<g ref="char:punc">▪</g> 18.</note>
             </p>
             <p>A. It is the redeeming of him from the bondage of sin, the curse, and Sa<g ref="char:EOLhyphen"/>tan,
-<pb n="7" facs="tcp:000063_0007_0F9F1A000E6C90E0"/>
+<pb n="7" facs="unknown:000063_0007_0F9F1A000E6C90E0"/>
 into the liberty of the grace of the Gospel.</p>
             <p>Q. <note place="margin">1 Tim 2.5<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
@@ -285,7 +285,7 @@ into the liberty of the grace of the Gospel.</p>
                   <hi>viz.</hi>
                </abbr> the Divine Essence subsisting in the relation of the Son] as<g ref="char:EOLhyphen"/>sumed the Manhood like unto us in all things sin only excepted, &amp; the manner of its subsistence, for the manhood ever subsisted but in the Godhead from w<hi rend="sup">ch</hi> union of the Divine &amp; Humane nature, both Natures make but one Person in him.</p>
             <p>
-               <pb n="8" facs="tcp:000063_0008_0F9F1A00CB992978"/>
+               <pb n="8" facs="unknown:000063_0008_0F9F1A00CB992978"/>
                <hi>Q. Why must Jesus Christ be Man?</hi>
             </p>
             <p>A. <note place="margin">Gen 2.17 1 Cor.15 21.</note> That hee might in our nature suffer for us.</p>
@@ -334,7 +334,7 @@ into the liberty of the grace of the Gospel.</p>
                   </gap>. Ma<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>. 3.1.</note> teaching them to know the evill they are falne
-<pb n="9" facs="tcp:000063_0009_0F9F1A0186F0CF48"/>
+<pb n="9" facs="unknown:000063_0009_0F9F1A0186F0CF48"/>
 into, and all the good that God in him hath provided for them.</p>
             <p>Q. <hi>What doth he as he is a Priest?</hi>
             </p>
@@ -357,7 +357,7 @@ into, and all the good that God in him hath provided for them.</p>
             </p>
             <p>
                <hi>A.</hi> Two: his poore life, and cur<g ref="char:EOLhyphen"/>sed
-<pb n="10" facs="tcp:000063_0010_0F9F1A0246B27E28"/>
+<pb n="10" facs="unknown:000063_0010_0F9F1A0246B27E28"/>
 (though otherwise everlastingly blessed death)<note place="margin">2 Cor.8 9 Phil.<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>.<gap reason="illegible: indecipherable" extent="1 letter">
@@ -395,7 +395,7 @@ into, and all the good that God in him hath provided for them.</p>
                <hi>Q. When is union wrought?</hi>
             </p>
             <p>
-               <pb n="11" facs="tcp:000063_0011_0F9F1A03879F2818"/>
+               <pb n="11" facs="unknown:000063_0011_0F9F1A03879F2818"/>
                <hi>A.</hi> At the same time with, but in order of nature following Vocation.</p>
             <p>
                <hi>Q. What is Vocation?</hi>
@@ -423,7 +423,7 @@ into, and all the good that God in him hath provided for them.</p>
             <p>
                <hi>A</hi> It is that by which a believer,<note place="margin">Rom.8.32. Eph.1.13</note> by vertue of his Union, is orderly made partaker of all the remaining good of the Covenant of Grace.</p>
             <p>
-               <pb n="12" facs="tcp:000063_0012_0F9F1A03C7C92DE8"/>
+               <pb n="12" facs="unknown:000063_0012_0F9F1A03C7C92DE8"/>
 Q. <hi>What are the chief benefits of communion?</hi>
             </p>
             <p>
@@ -450,7 +450,7 @@ Q. <hi>What are the chief benefits of communion?</hi>
             <p>Q. <hi>What are the parts of Sanctifi<g ref="char:EOLhyphen"/>cation?</hi>
             </p>
             <p>
-               <pb n="13" facs="tcp:000063_0013_0F9F1A05E2E712E8"/>
+               <pb n="13" facs="unknown:000063_0013_0F9F1A05E2E712E8"/>
                <hi>A.</hi>
                <note place="margin">Col.3.3,5. Col.3.10</note> Two: Mortification, and Vi<g ref="char:EOLhyphen"/>rification.</p>
             <p>Q. <hi>What is Glorification?</hi>
@@ -480,7 +480,7 @@ Q. <hi>What are the chief benefits of communion?</hi>
                <hi>Q. What is a visible Church?</hi>
             </p>
             <p>A. <note place="margin">Luk.17.1. Rom.2.28,29. 1 Pet.3.4.</note> It is a part of the Catholick Church, consisting of a competent number knit together by way of a
-<pb n="14" facs="tcp:000063_0014_0F9F1A061DE79038"/>
+<pb n="14" facs="unknown:000063_0014_0F9F1A061DE79038"/>
 visible Covenant, to exercise an holy Communion according to the Rules of the Gospel.</p>
             <p>Q. <hi>What is the matter of this Church?</hi>
             </p>
@@ -524,7 +524,7 @@ visible Covenant, to exercise an holy Communion according to the Rules of the Go
                      <desc>•</desc>
                   </gap> Tim.3.8</note> Pastors, Teachers, Ruling-El<g ref="char:EOLhyphen"/>ders, [who have the care of Spirituall things] Deacons, Widows, who have the case of temporal things.</p>
             <p>
-               <pb n="15" facs="tcp:000063_0015_0F9F1A070861EB78"/>
+               <pb n="15" facs="unknown:000063_0015_0F9F1A070861EB78"/>
                <hi>Q. In case of incorrigibleness in the Eldership, where doth the power preserva<g ref="char:EOLhyphen"/>tive of the whole remain?</hi>
             </p>
             <p>
@@ -551,7 +551,7 @@ visible Covenant, to exercise an holy Communion according to the Rules of the Go
             </p>
             <p>A. They are the revealed will of God contained in the Books of the Old and New Testament,<note place="margin">Rev.22.18,19.</note> the constant, perpe<g ref="char:EOLhyphen"/>tual, and onely Rule of Faith and Man<g ref="char:EOLhyphen"/>ners.</p>
             <p>
-               <pb n="16" facs="tcp:000063_0016_0F9F1A08709E3678"/>
+               <pb n="16" facs="unknown:000063_0016_0F9F1A08709E3678"/>
                <hi>Q. What is a Sacrament?</hi>
             </p>
             <p>A. <note place="margin">Rom.4.11.</note> It is a Seal of the Covenant of Grace.</p>
@@ -588,7 +588,7 @@ visible Covenant, to exercise an holy Communion according to the Rules of the Go
                <hi>A.</hi>
                <note place="margin">Matt.18.15,16,17. 1 Tim.5,20.</note> In private offences privately, but in publike publikely.</p>
             <p>
-               <pb n="17" facs="tcp:000063_0017_0F9F1A0902D65D38"/>
+               <pb n="17" facs="unknown:000063_0017_0F9F1A0902D65D38"/>
 Quest. <hi>After all that good of Redemp<g ref="char:EOLhyphen"/>tion applyed, which God intended his Elect in the use of outward meanes, what do you further believe?</hi>
             </p>
             <p>
@@ -621,7 +621,7 @@ Quest. <hi>After all that good of Redemp<g ref="char:EOLhyphen"/>tion applyed, w
             <p>A. The Decalogue,<note place="margin">Deu.4:13 M<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>ch.6.8</note> or ten Comman<g ref="char:EOLhyphen"/>dements,
-<pb n="18" facs="tcp:000063_0018_0F9F1A0E8A2C7E00"/>
+<pb n="18" facs="unknown:000063_0018_0F9F1A0E8A2C7E00"/>
 unto which,<note place="margin">Math.22.37,38 39 40,</note> what is comman<g ref="char:EOLhyphen"/>ded in Scripture, may be reduced.</p>
             <p>Q <hi>How is the Decalogue divided?</hi>
             </p>
@@ -647,7 +647,7 @@ unto which,<note place="margin">Math.22.37,38 39 40,</note> what is comman<g ref
             <p>Q. <hi>What are we here forbiden?</hi>
             </p>
             <p>A. <note place="margin">Je.10.25 Ro.1.21,22,23: 2 Kin.17.13.</note> Not worshipping of God, which is Atheisme; Worshipping others, and not God, which is Idolatry; Worship<g ref="char:EOLhyphen"/>ping
-<pb n="19" facs="tcp:000063_0019_0F9F1A1002ACB910"/>
+<pb n="19" facs="unknown:000063_0019_0F9F1A1002ACB910"/>
 others together with God, which is Polutheisme, <abbr>
                   <hi>viz:</hi>
                </abbr> worshipping many Gods.</p>
@@ -672,7 +672,7 @@ others together with God, which is Polutheisme, <abbr>
             </p>
             <p>A. <note place="margin">Eccl.5.1,2.</note> All irreverence in the worship of God, or concerning the use of his name, as contempt, rashnesse, lightnesse, blas<g ref="char:EOLhyphen"/>phemy.</p>
             <p>
-               <pb n="20" facs="tcp:000063_0020_0F9F1A11C75F0238"/>
+               <pb n="20" facs="unknown:000063_0020_0F9F1A11C75F0238"/>
 Quest. <hi>Which is the</hi> 4. <hi>Co<g ref="char:cmbAbbrStroke">̄</g>mandement?</hi>
             </p>
             <p>A. <note place="margin">Ex.20.8,9.10,11.</note> Remember the Sabbath day to keep it holy, &amp;c.</p>
@@ -716,7 +716,7 @@ Quest. <hi>Which is the</hi> 4. <hi>Co<g ref="char:cmbAbbrStroke">̄</g>mandemen
                <hi>A</hi>
                <note place="margin">Eph.6.2. 2 King.2.12 &amp;. 5.13,14. 1 Pet.2.7. Ro 12.10</note> That we walk orderly in our callings, inwardly acknowledging, and outwardly according to Rule, expres<g ref="char:EOLhyphen"/>sing that honour which is due to Supe<g ref="char:EOLhyphen"/>riours, Inferiours, Equals, according to their several relations.</p>
             <p>
-               <pb n="21" facs="tcp:000063_0021_0F9F1A1215B6E238"/>
+               <pb n="21" facs="unknown:000063_0021_0F9F1A1215B6E238"/>
 Quest. <hi>What'are we here forbidden?</hi>
             </p>
             <p>
@@ -771,7 +771,7 @@ Quest. <hi>What'are we here forbidden?</hi>
                      <desc>〈◊〉</desc>
                   </gap> 3.12 Luk.3.14</note> That properties being kept in<g ref="char:EOLhyphen"/>disturbed, we possess that which is our own, not anothers, &amp; that without injury to any.</p>
             <p>
-               <pb n="22" facs="tcp:000063_0022_0F9F1A12E179E688"/>
+               <pb n="22" facs="unknown:000063_0022_0F9F1A12E179E688"/>
 Qu. <hi>What are we here forbidden?</hi>
             </p>
             <p>
